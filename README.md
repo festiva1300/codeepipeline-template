@@ -1,4 +1,4 @@
-# codeepipeline-template
+# codepipeline-template
 
 CodePipelineを作成するterraform テンプレート。
 
